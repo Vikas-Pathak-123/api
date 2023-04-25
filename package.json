@@ -1,0 +1,15 @@
+{
+  "name": "beckend",
+  "version": "1.0.0",
+  "description": "for deploye api",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arpit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
